@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Caramelo",
+    "description": "Arcor",
+    "price": 122,
+    "thumbnail": "",
+    "code": 12,
+    "stock": 15,
+    "id": 1
+  },
+  {
+    "title": "Chicle",
+    "description": "Arcor",
+    "price": 32,
+    "thumbnail": "",
+    "code": 15,
+    "stock": 18,
+    "id": 2
+  },
+  {
+    "title": "dadsa",
+    "description": "Arcor",
+    "price": 15,
+    "thumbnail": "",
+    "code": 1,
+    "stock": 18,
+    "id": 3
+  },
+  {
+    "title": "Alfajor",
+    "description": "Arcor",
+    "price": 84,
+    "thumbnail": "",
+    "code": 115,
+    "stock": 22,
+    "id": 4
+  },
+  {
+    "title": "Turron",
+    "description": "Arcor",
+    "price": 55,
+    "thumbnail": "",
+    "code": 18,
+    "stock": 18,
+    "id": 5
+  },
+  {
+    "title": "Galletas",
+    "description": "Arcor",
+    "price": 27,
+    "thumbnail": "",
+    "code": 135,
+    "stock": 12,
+    "id": 6
+  },
+  {
+    "title": "Coca Cola",
+    "description": "Arcor",
+    "price": 82,
+    "thumbnail": "",
+    "code": 44,
+    "stock": 18,
+    "id": 7
+  },
+  {
+    "title": "Jugo",
+    "description": "Arcor",
+    "price": 22,
+    "thumbnail": "",
+    "code": 75,
+    "stock": 17,
+    "id": 8
+  },
+  {
+    "title": "Jugos de Agua",
+    "description": "Arcor",
+    "price": 30,
+    "thumbnail": "",
+    "code": 33,
+    "stock": 18,
+    "id": 9
+  }
+]
